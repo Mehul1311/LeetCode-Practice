@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Mehul1311/LeetCode-Practice/tree/master/0268-missing-number) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/Mehul1311/LeetCode-Practice/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 ## Binary Search
 |  |
 | ------- |
