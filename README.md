@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Mehul1311/LeetCode-Practice/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Mehul1311/LeetCode-Practice/tree/master/0268-missing-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Mehul1311/LeetCode-Practice/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 ## Binary Search
@@ -48,4 +49,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Mehul1311/LeetCode-Practice/tree/master/0344-reverse-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Mehul1311/LeetCode-Practice/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Mehul1311/LeetCode-Practice/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
