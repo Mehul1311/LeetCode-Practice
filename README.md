@@ -42,5 +42,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Mehul1311/LeetCode-Practice/tree/master/0075-sort-colors) |
+| [0344-reverse-string](https://github.com/Mehul1311/LeetCode-Practice/tree/master/0344-reverse-string) |
 | [0905-sort-array-by-parity](https://github.com/Mehul1311/LeetCode-Practice/tree/master/0905-sort-array-by-parity) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/Mehul1311/LeetCode-Practice/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
