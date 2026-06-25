@@ -12,11 +12,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mehul1311/LeetCode-Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0905-sort-array-by-parity](https://github.com/Mehul1311/LeetCode-Practice/tree/master/0905-sort-array-by-parity) |
 | [1200-minimum-absolute-difference](https://github.com/Mehul1311/LeetCode-Practice/tree/master/1200-minimum-absolute-difference) |
+| [3866-first-unique-even-element](https://github.com/Mehul1311/LeetCode-Practice/tree/master/3866-first-unique-even-element) |
 ## Hash Table
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Mehul1311/LeetCode-Practice/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mehul1311/LeetCode-Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [3866-first-unique-even-element](https://github.com/Mehul1311/LeetCode-Practice/tree/master/3866-first-unique-even-element) |
 ## Math
 |  |
 | ------- |
@@ -57,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Mehul1311/LeetCode-Practice/tree/master/0070-climbing-stairs) |
+## Counting
+|  |
+| ------- |
+| [3866-first-unique-even-element](https://github.com/Mehul1311/LeetCode-Practice/tree/master/3866-first-unique-even-element) |
 <!---LeetCode Topics End-->
