@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/Mehul1311/LeetCode-Practice/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Mehul1311/LeetCode-Practice/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Mehul1311/LeetCode-Practice/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/Mehul1311/LeetCode-Practice/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Mehul1311/LeetCode-Practice/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mehul1311/LeetCode-Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Mehul1311/LeetCode-Practice/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/Mehul1311/LeetCode-Practice/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Mehul1311/LeetCode-Practice/tree/master/0389-find-the-difference) |
 ## Sorting
@@ -69,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3866-first-unique-even-element](https://github.com/Mehul1311/LeetCode-Practice/tree/master/3866-first-unique-even-element) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Mehul1311/LeetCode-Practice/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
