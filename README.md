@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Mehul1311/LeetCode-Practice/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Mehul1311/LeetCode-Practice/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Mehul1311/LeetCode-Practice/tree/master/0078-subsets) |
+| [0179-largest-number](https://github.com/Mehul1311/LeetCode-Practice/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Mehul1311/LeetCode-Practice/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Mehul1311/LeetCode-Practice/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Mehul1311/LeetCode-Practice/tree/master/0414-third-maximum-number) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Mehul1311/LeetCode-Practice/tree/master/0075-sort-colors) |
+| [0179-largest-number](https://github.com/Mehul1311/LeetCode-Practice/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Mehul1311/LeetCode-Practice/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Mehul1311/LeetCode-Practice/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Mehul1311/LeetCode-Practice/tree/master/0389-find-the-difference) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Mehul1311/LeetCode-Practice/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/Mehul1311/LeetCode-Practice/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/Mehul1311/LeetCode-Practice/tree/master/0389-find-the-difference) |
 ## Dynamic Programming
@@ -78,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Mehul1311/LeetCode-Practice/tree/master/0078-subsets) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/Mehul1311/LeetCode-Practice/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
