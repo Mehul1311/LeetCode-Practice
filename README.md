@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Mehul1311/LeetCode-Practice/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Mehul1311/LeetCode-Practice/tree/master/0078-subsets) |
 | [0179-largest-number](https://github.com/Mehul1311/LeetCode-Practice/tree/master/0179-largest-number) |
+| [0198-house-robber](https://github.com/Mehul1311/LeetCode-Practice/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/Mehul1311/LeetCode-Practice/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Mehul1311/LeetCode-Practice/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Mehul1311/LeetCode-Practice/tree/master/0414-third-maximum-number) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Mehul1311/LeetCode-Practice/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/Mehul1311/LeetCode-Practice/tree/master/0198-house-robber) |
 ## Memoization
 |  |
 | ------- |
